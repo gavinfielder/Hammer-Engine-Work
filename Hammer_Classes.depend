@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1497050950 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\main.cpp
+	<iostream>
+	"Global.h"
+	"Locator.h"
+	"Weapon.h"
+	"HealthTracker.h"
+	<string>
+	"Clock.h"
+	"EventCore.h"
+
+1496733394 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\damageable.cpp
+	"Damageable.h"
+	<cstdlib>
+	<ctime>
+	<cstdint>
+	<iostream>
+
+1496739391 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\damageable.h
+	"Global.h"
+	"Locator.h"
+	<cstdint>
+
+1496354136 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\globalconstants.h
+	<cstdlib>
+	<ctime>
+	<cstdint>
+
+1496734633 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\locateable.cpp
+	"Locateable.h"
+	"Global.h"
+	<cmath>
+
+1496734620 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\locateable.h
+	<cmath>
+	<cstdint>
+	<iostream>
+	"Global.h"
+
+1496782254 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\weapon.cpp
+	"Weapon.h"
+	"Locator.h"
+	<cstdint>
+	<cmath>
+	<iostream>
+
+1496782234 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\weapon.h
+	"Global.h"
+	"HealthTracker.h"
+	<cstdint>
+
+1496739379 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\global.h
+	<cstdlib>
+	<ctime>
+	<cstdint>
+
+1496354512 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\global.cpp
+	"Global.h"
+	<cstdlib>
+	<ctime>
+	<cstdint>
+
+1497074588 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\locator.h
+	<cmath>
+	<cstdint>
+	<iostream>
+	"Global.h"
+
+1497074442 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\locator.cpp
+	"Locator.h"
+	"Global.h"
+	<cmath>
+
+1497074588 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\healthtracker.h
+	"Global.h"
+	"Locator.h"
+	<cstdint>
+
+1497074478 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\healthtracker.cpp
+	"HealthTracker.h"
+	<cstdlib>
+	<ctime>
+	<cstdint>
+	<iostream>
+
+1497050865 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\clock.cpp
+	"Clock.h"
+	<chrono>
+
+1496880040 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\clock.h
+	<chrono>
+
+1496910723 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\eventcore.cpp
+	"EventCore.h"
+	<iostream>
+
+1497071158 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\eventcore.h
+	"Clock.h"
+	<memory>
+
+1497154108 source:c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\src\gameobject.cpp
+	"GameObject.h"
+
+1497155513 c:\users\gavin\documents\hammer\classes work may 2017\hammer_classes\include\gameobject.h
+	"EventCore.h"
+	"Locator.h"
+	"HealthTracker.h"
+	"Global.h"
+
